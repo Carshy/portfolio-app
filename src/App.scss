@@ -67,7 +67,9 @@
   }
 
   @media screen and (max-width: 450px) {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.025rem;
+    text-align: center;
   }
 }
 
@@ -106,8 +108,8 @@
   padding: 1rem;
 
   div {
-    width: 40px;
-    height: 40px;
+    width: 55px;
+    height: 55px;
     border-radius: 50%;
     background-color: var(--white-color);
     margin: 0.25rem 0;
@@ -120,8 +122,8 @@
     transition: all 0.3s ease-in-out;
 
     svg {
-      width: 15px;
-      height: 15px;
+      width: 25px;
+      height: 25px;
       color: var(--gray-color);
     }
 
@@ -157,8 +159,8 @@
   padding: 1rem;
 
   .app__navigation-dot {
-    width: 10px;
-    height: 10px;
+    width: 14px;
+    height: 14px;
     border-radius: 50%;
     background-color: #cbcbcb;
     margin: 0.5rem;
@@ -170,8 +172,8 @@
     }
 
     @media screen and (min-width: 2000px) {
-      width: 20px;
-      height: 20px;
+      width: 25px;
+      height: 25px;
     }
   }
 }

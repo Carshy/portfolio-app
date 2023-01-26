@@ -17,6 +17,10 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import rails from '../assets/rails.png';
+import clog3 from '../assets/clog3.png';
+import kidist from '../assets/kidist.JPG';
+import collins from '../assets/collins.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -24,6 +28,7 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import default1 from '../assets/default1.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -55,11 +60,16 @@ export default {
   sass,
   typescript,
   vue,
+  rails,
+  clog3,
+  kidist,
+  collins,
   about01,
   about02,
   about03,
   about04,
   profile,
+  default1,
   circle,
   logo,
   adidas,

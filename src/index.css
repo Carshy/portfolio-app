@@ -3,6 +3,13 @@
 :root {
   --font-base: "DM Sans", sans-serif;
 
+  --color-bg: #1f1f38;
+  --color-bg-variant: #2c2c6c;
+  /* --primary-color: #4db5ff; */
+  --color-primary-variant: rgba(77, 185, 255, 0.4);
+  --color-light: rgba(255, 255, 255, 0.6);
+  
+
   --primary-color: #edf2f8;
   --secondary-color: #313bac;
   --black-color: #030303;
@@ -17,4 +24,6 @@
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  list-style-type: none;
+  text-decoration: none;
 }
